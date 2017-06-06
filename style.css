@@ -1,0 +1,17 @@
+/*
+* @Author: palmsi
+* @Date:   2017-06-05 20:47:33
+* @Last Modified by:   palmsi
+* @Last Modified time: 2017-06-06 11:56:41
+*/
+
+.page {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 100px;
+}
+
+.subpage {
+    border: 5px solid green;
+    padding: 3%;
+}
